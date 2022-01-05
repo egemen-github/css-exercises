@@ -1,0 +1,19 @@
+p.c1 {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, sans-serif;
+}
+
+p.c {
+    font-size: 24px;
+}
+
+#i1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#i2  {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
